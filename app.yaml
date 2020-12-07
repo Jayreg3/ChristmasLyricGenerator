@@ -1,0 +1,7 @@
+runtime: python37
+instance_class: f4
+
+# handlers:
+# - url: /new
+#   http_headers:
+#     Access-Control-Allow-Origin: "*"
